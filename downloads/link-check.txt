@@ -1,0 +1,20 @@
+Gemini Gems Gallery link and privacy check
+repo document links checked: 1302
+pdf links checked: 37
+pptx links checked: 42
+zip document links checked: 1302
+zip pdf links checked: 37
+zip pptx links checked: 42
+privacy files scanned: 82
+external urls checked: 9
+  ok: https://aistudio.google.com/apikey
+  ok: https://creativecommons.org/licenses/by/4.0/
+  ok: https://gemini.google.com
+  ok: https://img.shields.io/badge/Download-PDF-0F9B8E?style=for-the-badge
+  ok: https://img.shields.io/badge/Download-PPTX-6366F1?style=for-the-badge
+  ok: https://img.shields.io/badge/Download-ZIP-22C55E?style=for-the-badge
+  ok: https://img.shields.io/badge/Gallery-offline-F59E0B?style=for-the-badge
+  ok: https://img.shields.io/badge/Gems-33-6366F1?style=for-the-badge
+  ok: https://img.shields.io/badge/License-CC_BY_4.0_%2B_MIT-0B1220?style=for-the-badge
+FAILURES: 0
+All checked links resolved. No personal-detail patterns matched.
